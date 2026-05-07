@@ -1,1 +1,1 @@
-Problem-1: 
+Here contain 7 problems. 1st problem have a function, in this function even number are output in a array. 2nd problem, output string in reverse world. 3rd problem, if number input, then output "Number" or "String" output, if a string is input. 4th problem, name, age or id is output from an object. 5th problem, an object will be output with add a new property by generics. 6th problem, name, age & grade will be output be class property. In 7th problem, a common number array will output in array from two number array, which are present in.
